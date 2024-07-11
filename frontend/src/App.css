@@ -1,0 +1,114 @@
+.nav-ul {
+  background-color: #e21515;
+  margin: 0;
+
+}
+
+.nav-ul li {
+  display: inline-block;
+  padding: 5px;
+  font-size: 18px;
+}
+
+li a {
+  text-decoration: none;
+
+}
+
+.nav-right {
+  text-align: center;
+}
+
+.register input {
+  margin: 10px;
+  display: block;
+  padding: 10px;
+  width: 50%;
+}
+
+.register textarea {
+  margin: 10px;
+  padding: 10px;
+  width: 50%;
+}
+
+.register button {
+  margin: 10px;
+}
+
+.product input {
+  margin: 10px;
+  display: block;
+  padding: 10px;
+  width: 50%;
+}
+
+.product button {
+  margin: 10px;
+}
+
+.login input {
+  margin: 10px;
+  display: block;
+  padding: 10px;
+  width: 50%;
+}
+
+.login button {
+  margin: 10px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  background-color: #61dafb;
+  width: 100%;
+}
+
+.productList {
+  text-align: center;
+}
+
+.productList ul {
+  margin: 0px;
+}
+
+.productList li {
+  display: inline-block;
+  border: 2px solid blue;
+  padding: 2px;
+  width: 200px;
+}
+
+.search {
+  padding: 5px;
+  border: 1px solid blue;
+  margin: 10px;
+  width: 30%;
+}
+
+.profile {
+  margin: 10px;
+  word-spacing: 2px;
+  position: relative;
+  left:auto;
+}
+
+.profile label{
+  font-size:15px;
+
+  }
+.profile input {
+  border: 4px ridge #ccc;
+  width: 30%;
+  padding: 5px;
+  margin: 0px 20px 30px 80px;
+  position: relative;
+  left: auto;
+}
+.side{
+  margin-left:120px;
+}
+.App-link {
+  color: #61dafb;
+}
